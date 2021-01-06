@@ -1,4 +1,4 @@
-# Auto scroll to today in Google Sheets
+# Auto-scroll to today in Google Sheets
 
 When you open a spreadsheet in Google Sheets, this Google AppsScript will automatically scroll or jump to the cell corresponding to today's date by focusing or selecting that cell.
 
